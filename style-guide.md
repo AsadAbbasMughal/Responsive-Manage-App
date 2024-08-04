@@ -51,3 +51,4 @@ For the social icons, you can use the icons provided or a font icon library. Som
 
 ### Mobile Design
 ![Mobile Design](images/mobile-landing-page.jpg)
+
